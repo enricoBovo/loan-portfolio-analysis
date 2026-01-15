@@ -5,7 +5,7 @@ End-to-end data analysis project using **SQL** and **Power BI** to analyze loan 
 
 ## Business Context
 
-This project analyzes consumer loan data from a US bank during 2021.  
+This project analyses consumer loan data from a US bank during 2021.  
 The objective is to monitor loan volume, funding, repayments, and credit quality, providing insights that support **portfolio monitoring and risk assessment**.
 
 ---
@@ -13,22 +13,19 @@ The objective is to monitor loan volume, funding, repayments, and credit quality
 ## Dataset Overview
 
 - **38,576** individual loan applications  
-- **Time period:** January–December 2021  
+- **Time period:** January-December 2021  
 - **Geography:** United States  
 - **Granularity:** loan-level data  
 
-The dataset includes borrower demographics, loan terms, interest rates, repayment information, and loan status.
+The dataset covers borrower financial profiles, loan characteristics, interest rates, and repayment outcomes across different loan statuses.
 
 ---
 
 ## Data Source
 
-The dataset used in this project is derived from the widely used
-**LendingClub loan data**, which contains anonymized information on US consumer
-loans issued during 2021.
+The dataset used in this project is derived from the widely used **LendingClub loan data**, which contains anonymized information on US consumer loans issued during 2021.
 
-The data has been cleaned and structured for analytical purposes and is widely
-used for educational, analytical, and portfolio projects.
+The data has been cleaned and structured for analytical purposes and is widely used for educational, analytical, and portfolio projects.
 
 The raw dataset is not included in this repository.
 
@@ -65,11 +62,10 @@ Additional analyses include:
 ---
 
 ## Project Structure
-.
-├── sql/        # SQL queries for data overview, KPIs, and segmentation
-├── powerbi/    # Power BI dashboard (.pbix)
-├── images/     # Dashboard screenshots
-└── README.md
+  - sql/        # SQL queries for data overview, KPIs, and segmentation
+  - powerbi/    # Power BI dashboard (.pbix)
+  - images/     # Dashboard screenshots
+  - README.md
 
 ---
 
