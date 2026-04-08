@@ -62,9 +62,9 @@ Additional analyses include:
 ---
 
 ## Project Structure
-  - sql/        # SQL queries for data overview, KPIs, and segmentation
-  - powerbi/    # Power BI dashboard (.pbix)
-  - images/     # Dashboard screenshots
+  - sql/        SQL queries for data overview, KPIs, and segmentation
+  - powerbi/    Power BI dashboard (.pbix)
+  - images/     Dashboard screenshots
   - README.md
 
 ---
